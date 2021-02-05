@@ -1,2 +1,2 @@
-# Topicos_em_estatistica_para_Direito
+# Topicos em estatistica para Direito
 Esse repositório contém uma série de documentos (produzidos no Jupyter, na linguagem Python 3) voltados para abordar tópicos de estatística direcionados para questões empíricas no mundo do Direito. Eles tem por objetivo apresentar ferramentas e conceitos de estatística e probabilidade que sejam úteis para o jurista na realização de suas tarefas, seja de pesquisa, seja na prática.
